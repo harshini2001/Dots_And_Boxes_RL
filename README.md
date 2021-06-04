@@ -1,5 +1,6 @@
 # Dots_And_Boxes_RL
 RL Q learning to imitate the playing of game
+![image](https://user-images.githubusercontent.com/43994542/112990861-2527ad80-9184-11eb-9fc1-2a72fd6fd2a1.png)
 
 
 ## Assumptions and inits
